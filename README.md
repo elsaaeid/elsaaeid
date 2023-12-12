@@ -5,6 +5,7 @@
 
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
+![image](images/web.png)
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/elsaaeid-ellithy-9017811b2/)
@@ -24,9 +25,5 @@
 * [Programmers heaven](https://programmersheaven.com/)
 
 ![Anurag's GitHub stats](images/rv.JPG)
-
-
-
-![image](images/web.png)
 
 
