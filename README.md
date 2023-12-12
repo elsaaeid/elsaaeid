@@ -8,10 +8,9 @@
 ![image](images/web.png)
 
 # Contact 
-* [LinkedIn](https://www.linkedin.com/in/elsaaeid-ellithy-9017811b2/)
-* [Portfolio](https://elsaaeid.github.io/portfolio-react/)
-* [Behance](https://www.behance.net/elsaeedellisy1)
-* [Email](mailto:saidsadaoy@gmail.com)
+
+* [LinkedIn](https://www.linkedin.com/in/elsaaeid-ellithy-9017811b2/)  [Portfolio](https://elsaaeid.github.io/portfolio-react/) [Behance](https://www.behance.net/elsaeedellisy1) [Email](mailto:saidsadaoy@gmail.com) 
+
 ![image Top Langs](images/vb.png)
 
 
