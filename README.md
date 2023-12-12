@@ -11,8 +11,8 @@
 * [Portfolio](https://elsaaeid.github.io/portfolio-react/)
 * [Behance](https://www.behance.net/elsaeedellisy1)
 * [Email](mailto:saidsadaoy@gmail.com)
+![image Top Langs](images/vb.png)
 
-[![Top Langs](https://drive.google.com/file/d/1eU50bgoHlvUYEaFWrfvULmhNwkiKjRxP/view?usp=drive_link)]
 
 ## QUESTION AND ANSWER WEBSITE 
 * [Stackoverflow](https://Stackoverflow.com/)
@@ -23,9 +23,10 @@
 * [Code project](https://codeproject.com/)
 * [Programmers heaven](https://programmersheaven.com/)
 
-![Anurag's GitHub stats](https://drive.google.com/file/d/1IUGPpqQaF-wLY9QYTHBGLPlRJ2IQ4yGt/view?usp=drive_link)
+![Anurag's GitHub stats](images/rv.JPG)
 
 
-![image](https://drive.google.com/file/d/19lrfo2Z01TMhhUgbFKxY2GMjli8VxYF0/view?usp=drive_link)
+
+![image](images/web.png)
 
 
