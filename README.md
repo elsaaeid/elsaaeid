@@ -12,79 +12,60 @@
 <tr style="display:flex, flex-direction:row" align="center" class="collection">
     <td class="collection-item avatar">
       <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
       <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
       <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
       <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
      <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
       <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
        <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
       <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <li class="collection-item avatar">
      <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </li>
     <td class="collection-item avatar">
      <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
      <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
      <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
       <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
      <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
     <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
      <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
      <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
      <a href="https://www.kernel.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
     <td class="collection-item avatar">
      <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
-      <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
     </td>
   </tr>
 
