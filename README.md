@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<ul align="center" class="collection">
+<ul style="display:flex, flex-direction:row" align="center" class="collection">
     <li class="collection-item avatar">
       <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
       <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
