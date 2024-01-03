@@ -4,7 +4,7 @@
 ### I'm a Software Engineer. `I learn by doing....`
 
 
-<ul align="center">
+<ul>
   <li> 🔭 I’m currently working on my coding skills.</li>
   <li> 👯 I’m open to collaborate on Software Engineering projects.</li>
 </ul>
