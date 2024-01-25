@@ -10,7 +10,7 @@
   <li> 🔭 I’m currently working on my coding skills.</li>
   <li> 👯 I’m open to collaborate on Software Engineering projects.</li>
 </ul>
-<img align="center" width="100%" alt="Coding" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dikn464zb56czgkkg9u51aqlbxd5iu5ozycca158&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="center" width="100%" alt="Coding" src="view.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsaaeid&label=Profile%20views&color=0e75b6&style=flat" alt="elsaaeid" /> </p>
