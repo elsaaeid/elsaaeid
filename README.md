@@ -95,7 +95,7 @@
   </summary>
 	<br/>
    <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-white?logo=MySQL&logoColor=%233776AB">
     <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 </details>
 
