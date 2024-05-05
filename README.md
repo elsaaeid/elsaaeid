@@ -21,10 +21,12 @@
 
 <details>
 	<summary>
+  <center>
     &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Programming%20languages%3A-blue">
     </b>
+    </center>
   </summary>
 	<br/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -74,7 +76,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-white?logo=Vue.js">
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+  <img alt="Static Badge" src="https://img.shields.io/badge/express-%23000000?logo=express&logoColor=%233776AB">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-%23000000?logo=Next.js">
 </details>
