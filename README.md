@@ -21,9 +21,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Programming%20languages%3A-blue">
-    </strong>
+    </b>
   </summary>
 	<br/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -48,9 +48,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20frameworks%3A-%2306B6D4">
-    </strong>
+    </b>
   </summary>
 	<br/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -61,9 +61,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Frameworks%20and%20libraries%3A-blue">
-    </strong>
+    </b>
   </summary>
 	<br/>
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -79,9 +79,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Runtime%20environment%3A-blue">
-    </strong>
+    </b>
   </summary>
 	<br/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white">
@@ -89,9 +89,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Databases%3A-blue">
-    </strong>
+    </b>
   </summary>
 	<br/>
    <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
@@ -101,9 +101,9 @@
 
 <details>
 	<summary>
-    <strong>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Cloud%20computing%20platform%and%APIs%3A-blue">
-    </strong>
+    <b>
+      <img alt="Static Badge" src="https://img.shields.io/badge/Cloud%20computing%20platform%20and%20APIs%3A-blue">
+    </b>
   </summary>
 	<br/>
    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
@@ -112,9 +112,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Cloud%20platform%20as%20a%20service%20(PaaS)%3A-blue">
-    </strong>
+    </b>
   </summary>
 	<br/>
    <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-white?logo=heroku&logoColor=%23430098">
@@ -122,9 +122,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Developers%20tools%3A-blue">
-    </strong>
+    </b>
   </summary>
 	<br/>
     <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
@@ -136,9 +136,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Command%20line%20interfaces%20(CLI)-blue">
-    </strong>
+    </b>
   </summary>
 	<br/>
     <img alt="Static Badge" src="https://img.shields.io/badge/Linux-yellow?logo=Linux&logoColor=black">
@@ -146,9 +146,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Web%20APIs%20tests%3A-blue">
-    </strong>
+    </b>
   </summary>
 	<br/>
     <img alt="Static Badge" src="https://img.shields.io/badge/Postman-white?logo=postman">
@@ -157,9 +157,9 @@
 
 <details>
 	<summary>
-    <strong>
+    <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Graphic%20designing%3A-blue?logoColor=%2331A8FF">
-    </strong>
+    </b>
   </summary>
 	<br/>
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobephotoshop-white?logo=adobephotoshop&logoColor=%2331A8FF">
