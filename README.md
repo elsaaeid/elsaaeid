@@ -141,6 +141,7 @@
   </summary>
 	<br/>
     <img alt="Static Badge" src="https://img.shields.io/badge/Linux-yellow?logo=Linux&logoColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Windows-white?logo=Windows&logoColor=%233776AB">
 </details>
 
 <details>
