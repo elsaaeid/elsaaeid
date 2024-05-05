@@ -102,21 +102,12 @@
 <details>
 	<summary>
     <b>
-      Cloud computing platform and APIs:
+      Cloud computing platform services and APIs:
     </b>
   </summary>
 	<br/>
    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
    <img alt="Static Badge" src="https://img.shields.io/badge/Googlecloud-white?logo=googlecloud&logoColor=%234285F4">
-</details>
-
-<details>
-	<summary>
-    <b>
-      Cloud platform as a service (PaaS):
-    </b>
-  </summary>
-	<br/>
    <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-white?logo=heroku&logoColor=%23430098">
 </details>
 
