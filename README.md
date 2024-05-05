@@ -37,7 +37,7 @@
 <details>
 	<summary>
     <strong>
-      Style sheet language:
+      Style sheet tools:
     </strong>
   </summary>
 	<br/>
