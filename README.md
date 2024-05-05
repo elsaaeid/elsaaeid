@@ -1,4 +1,4 @@
-# Hi I'm Said.👋
+# Hi I'm Said.<img alt="Hi" width="30px" src="./assets/greetings.gif" />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+!+You+Welcome+To+My+Profile;My+Name's+Said;I'm+Full+Stack+Web+Developer+-+Mern+Stack;I'm+Passionate+About+Coding;I+Learn+By+Doing;I+Can+Work+Under+Pressure)](https://git.io/typing-svg)
