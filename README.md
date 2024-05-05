@@ -10,7 +10,7 @@
   <li> 🔭 I’m currently working on my coding skills.</li>
   <li> 👯 I’m open to collaborate on Software Engineering projects.</li>
 </ul>
-<img align="center" width="100%" alt="Coding" src="readme.gif">
+<img align="center" width="100%" alt="Coding" src="assets/readme.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsaaeid&label=Profile%20views&color=0e75b6&style=flat" alt="elsaaeid" /> </p>
@@ -19,6 +19,7 @@
 
 <br/>
 <br/>
+
 <details>
 	<summary>
     <strong>
@@ -167,6 +168,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeaftereffects-white?logo=adobeaftereffects&logoColor=%239999FF">
 </details>
 
+<br/>
 
 <p align="left"> <a href="https://twitter.com/elsaaeidellithy" target="blank"><img src="https://img.shields.io/twitter/follow/elsaaeidellithy?logo=twitter&style=for-the-badge" alt="elsaaeidellithy" /></a> </p>
 
