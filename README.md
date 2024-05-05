@@ -21,6 +21,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Programming%20languages%3A-blue">
     </b>
@@ -48,6 +49,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20frameworks%3A-blue">
     </b>
@@ -61,6 +63,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Frameworks%20and%20libraries%3A-blue">
     </b>
@@ -79,6 +82,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Runtime%20environment%3A-blue">
     </b>
@@ -89,6 +93,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Databases%3A-blue">
     </b>
@@ -101,6 +106,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Cloud%20computing%20platform%20and%20APIs%3A-blue">
     </b>
@@ -112,6 +118,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Cloud%20platform%20as%20a%20service%20(PaaS)%3A-blue">
     </b>
@@ -122,6 +129,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Developers%20tools%3A-blue">
     </b>
@@ -136,6 +144,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Command%20line%20interfaces%20(CLI)-blue">
     </b>
@@ -146,6 +155,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Web%20APIs%20tests%3A-blue">
     </b>
@@ -157,6 +167,7 @@
 
 <details>
 	<summary>
+    &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Graphic%20designing%3A-blue?logoColor=%2331A8FF">
     </b>
