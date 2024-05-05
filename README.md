@@ -19,14 +19,12 @@
 <br/>
 <br/>
 
-<details>
+<details align="center">
 	<summary>
-  <center>
     &nbsp;&nbsp;&nbsp;
     <b>
       <img alt="Static Badge" src="https://img.shields.io/badge/Programming%20languages%3A-blue">
     </b>
-    </center>
   </summary>
 	<br/>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
