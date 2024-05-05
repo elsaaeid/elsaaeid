@@ -21,8 +21,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Programming languages:
     </b>
@@ -39,7 +37,7 @@
 <details>
 	<summary>
     <strong>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Style%20sheet%20language%3A-blue">
+      Style sheet language:
     </strong>
   </summary>
 	<br/>
@@ -50,8 +48,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       CSS frameworks:
     </b>
@@ -65,8 +61,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Frameworks and libraries:
     </b>
@@ -85,8 +79,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Runtime environment
     </b>
@@ -97,8 +89,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Databases:
     </b>
@@ -111,8 +101,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Cloud computing platform and APIs:
     </b>
@@ -124,8 +112,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Cloud platform as a service (PaaS):
     </b>
@@ -136,8 +122,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Developers tools:
     </b>
@@ -151,8 +135,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Command line interfaces (CLI):
     </b>
@@ -163,8 +145,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Web APIs tests:
     </b>
@@ -175,8 +155,6 @@
 
 <details>
 	<summary>
-    🔎
-    &nbsp;&nbsp;&nbsp;
     <b>
       Graphic designing:
     </b>
