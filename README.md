@@ -24,7 +24,7 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Programming%20languages%3A-blue">
+      Programming languages:
     </b>
   </summary>
 	<br/>
@@ -53,7 +53,7 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20frameworks%3A-blue">
+      CSS frameworks:
     </b>
   </summary>
 	<br/>
@@ -68,7 +68,7 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Frameworks%20and%20libraries%3A-blue">
+      Frameworks and libraries:
     </b>
   </summary>
 	<br/>
@@ -88,7 +88,7 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Runtime%20environment%3A-blue">
+      Runtime environment
     </b>
   </summary>
 	<br/>
@@ -100,7 +100,7 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Databases%3A-blue">
+      Databases:
     </b>
   </summary>
 	<br/>
@@ -114,7 +114,7 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Cloud%20computing%20platform%20and%20APIs%3A-blue">
+      Cloud computing platform and APIs:
     </b>
   </summary>
 	<br/>
@@ -127,7 +127,7 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Cloud%20platform%20as%20a%20service%20(PaaS)%3A-blue">
+      Cloud platform as a service (PaaS):
     </b>
   </summary>
 	<br/>
@@ -139,7 +139,7 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Developers%20tools%3A-blue">
+      Developers tools:
     </b>
   </summary>
 	<br/>
@@ -149,13 +149,12 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Docker-white?logo=Docker">
 </details>
 
-
 <details>
 	<summary>
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Command%20line%20interfaces%20(CLI)-blue">
+      Command line interfaces (CLI):
     </b>
   </summary>
 	<br/>
@@ -167,20 +166,19 @@
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Web%20APIs%20tests%3A-blue">
+      Web APIs tests:
     </b>
   </summary>
 	<br/>
     <img alt="Static Badge" src="https://img.shields.io/badge/Postman-white?logo=postman">
 </details>
 
-
 <details>
 	<summary>
     🔎
     &nbsp;&nbsp;&nbsp;
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Graphic%20designing%3A-blue?logoColor=%2331A8FF">
+      Graphic designing:
     </b>
   </summary>
 	<br/>
