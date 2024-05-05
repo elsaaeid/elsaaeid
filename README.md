@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-white?logo=typescript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-white?logo=python&logoColor=%233776AB">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%23239DFF?logo=C%2B%2B">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-%23239DFF?logo=C%23">
@@ -49,7 +49,7 @@
 <details>
 	<summary>
     <b>
-      <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20frameworks%3A-%2306B6D4">
+      <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20frameworks%3A-blue">
     </b>
   </summary>
 	<br/>
