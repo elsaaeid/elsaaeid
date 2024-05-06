@@ -80,7 +80,7 @@
 <details>
 	<summary>
     <b>
-      Runtime environment
+      Runtime environment:
     </b>
   </summary>
 	<br/>
@@ -114,7 +114,7 @@
 <details>
 	<summary>
     <b>
-      Developers tools:
+      Developer tools:
     </b>
   </summary>
 	<br/>
