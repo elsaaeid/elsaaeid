@@ -19,7 +19,8 @@
 <br/>
 <br/>
 
-# Skills & Experiences & Technology Tools:
+<h3>Skills & Experiences & Technology Tools:</h3>
+<hr />
 <details>
 	<summary>
     <b>
