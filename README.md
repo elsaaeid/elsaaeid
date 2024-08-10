@@ -157,9 +157,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeaftereffects-white?logo=adobeaftereffects&logoColor=%239999FF">
 </details>
 
-<br/>
-
-<p align="left"> <a href="https://twitter.com/elsaaeidellithy" target="blank"><img src="https://img.shields.io/twitter/follow/elsaaeidellithy?logo=twitter&style=for-the-badge" alt="elsaaeidellithy" /></a> </p>
 
 <br />
 
@@ -171,12 +168,13 @@
   </summary>
 	<br/>
    	 <a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
-	Interview Question Of React
+	Interview Questions Of React
 	</a>
 </details>
 
 <br />
-
+<p align="left"> <a href="https://twitter.com/elsaaeidellithy" target="blank"><img src="https://img.shields.io/twitter/follow/elsaaeidellithy?logo=twitter&style=for-the-badge" alt="elsaaeidellithy" /></a> </p>
+<br />
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
