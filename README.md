@@ -17,7 +17,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsaaeid" alt="elsaaeid" /></a> </p>
 
 <br/>
-<br/>
 
 # Skills & Experiences & Technology Tools:
 
@@ -159,15 +158,15 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeaftereffects-white?logo=adobeaftereffects&logoColor=%239999FF">
 </details>
 
-<hr />
+<br />
+# Interview Questions:
 
-<h3>Interview Questions:</h3>
  <a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
 Interview Questions Of React
 </a>
+<br />
 
-
-# Connect with me:
+# Contact me via:
 
 <p align="left">
 <a href="https://dev.to/https://dev.to/elsaaeid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/elsaaeid" height="30" width="40" /></a>
@@ -180,10 +179,9 @@ Interview Questions Of React
 <a href="https://discord.gg/https://discord.com/channels/1101219152213065728/1108517934952886392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/1101219152213065728/1108517934952886392" height="30" width="40" /></a>
 </p>
 
-<br />
 <p align="left"> <a href="https://twitter.com/elsaaeidellithy" target="blank"><img src="https://img.shields.io/twitter/follow/elsaaeidellithy?logo=twitter&style=for-the-badge" alt="elsaaeidellithy" /></a> </p>
 
-
+<br />
 # Support:
 <p><a href="https://www.buymeacoffee.com/saidsadaoyw"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
 <div align="center">
