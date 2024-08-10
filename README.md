@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-<h3 align="left">Skills & Expreiences & Technology Tools:</h3>
+<h3 align="left">Skills & Experiences & Technology Tools:</h3>
 <details>
 	<summary>
     <b>
