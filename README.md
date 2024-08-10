@@ -160,14 +160,12 @@
 </details>
 
 <hr />
-<br />
 
 <h3>Interview Questions:</h3>
  <a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
 Interview Questions Of React
 </a>
 <hr />
-<br />
 
 
 <h3>Connect with me:</h3>
@@ -186,7 +184,7 @@ Interview Questions Of React
 <br />
 <p align="left"> <a href="https://twitter.com/elsaaeidellithy" target="blank"><img src="https://img.shields.io/twitter/follow/elsaaeidellithy?logo=twitter&style=for-the-badge" alt="elsaaeidellithy" /></a> </p>
 
-<br />
+<hr />
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/saidsadaoyw"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
 <div align="center">
