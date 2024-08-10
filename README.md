@@ -20,7 +20,7 @@
 <br/>
 
 <h3>Skills & Experiences & Technology Tools:</h3>
-<hr />
+
 <details>
 	<summary>
     <b>
@@ -159,18 +159,18 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeaftereffects-white?logo=adobeaftereffects&logoColor=%239999FF">
 </details>
 
-
+<hr />
 <br />
 
-# Interview Questions:
+<h3>Interview Questions:</h3>
  <a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
 Interview Questions Of React
 </a>
-
+<hr />
 <br />
 
 
-# Connect with me:
+<h3>Connect with me:</h3>
 
 <p align="left">
 <a href="https://dev.to/https://dev.to/elsaaeid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/elsaaeid" height="30" width="40" /></a>
