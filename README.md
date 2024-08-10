@@ -19,6 +19,7 @@
 <br/>
 <br/>
 
+<h3 align="left">Skills & Expreiences & Technology Tools:</h3>
 <details>
 	<summary>
     <b>
@@ -159,22 +160,17 @@
 
 
 <br />
+<h3 align="left">Interview Questions:</h3>
 
- <details>
-	<summary>
-    <b>
-      Interview Questions:
-    </b>
-  </summary>
-	<br/>
-   	 <a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
-	Interview Questions Of React
-	</a>
-</details>
+ <a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
+Interview Questions Of React
+</a>
 
 <br />
 <p align="left"> <a href="https://twitter.com/elsaaeidellithy" target="blank"><img src="https://img.shields.io/twitter/follow/elsaaeidellithy?logo=twitter&style=for-the-badge" alt="elsaaeidellithy" /></a> </p>
 <br />
+
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
