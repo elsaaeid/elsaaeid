@@ -180,12 +180,12 @@
 			<ul>
 				<li>
 					<a href="https://github.com/elsaaeid/CSS-Stylesheet-Interview-Questions/blob/main/README.md">
-					CSS (Cascading Style Sheets) Interview Questions
+					CSS Interview Questions
 					</a>
      				</li>
 				<li>
 					<a href="https://github.com/elsaaeid/Sass-and-Less-CSS-Interview-Questions/tree/main">
-					Sass (Syntactically Awesome Style Sheets) and Less (Leaner Style Sheets) Interview Questions
+					Sass and Less Interview Questions
 					</a>
 				</li>
    			</ul>
