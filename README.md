@@ -163,7 +163,10 @@
 # Interview Questions:
 
  <a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
-Interview Questions Of React
+React Interview Questions
+</a>
+ <a href="https://github.com/elsaaeid/Javascript-Interview-Questions/tree/master">
+Javascript Interview Questions
 </a>
 
 <br />
