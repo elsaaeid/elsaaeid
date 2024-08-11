@@ -176,15 +176,16 @@
 			</a>
 		</li>
 		<li>
+			Stylesheet Interview Questions
 			<ul>
 				<li>
 					<a href="https://github.com/elsaaeid/CSS-Stylesheet-Interview-Questions/blob/main/README.md">
-					CSS Stylesheet Interview Questions
+					CSS (Cascading Style Sheets) Interview Questions
 					</a>
      				</li>
 				<li>
 					<a href="https://github.com/elsaaeid/Sass-and-Less-CSS-Interview-Questions/tree/main">
-					Sass and Less CSS Interview Questions
+					Sass (Syntactically Awesome Style Sheets) and Less (Leaner Style Sheets) Interview Questions
 					</a>
 				</li>
    			</ul>
