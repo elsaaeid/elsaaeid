@@ -162,28 +162,37 @@
 
 # Interview Questions:
 
-<ul>
-	<li>
-		<a href="https://github.com/elsaaeid/HTML-interview-questions/blob/main/README.md">
-		HTML Interview Questions
-		</a>
-	</li>
-	<li>
-		<a href="https://github.com/elsaaeid/CSS-Stylesheet-Interview-Questions/blob/main/README.md">
-		CSS Stylesheet Interview Questions
-		</a>
-	</li>
-	<li>
-		<a href="https://github.com/elsaaeid/Javascript-Interview-Questions/tree/master">
-		Javascript Interview Questions
-		</a>
-	</li>
-	<li>
-		<a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
-		React Interview Questions
-		</a>
-	</li>
-</ul>
+<details>
+	<summary>
+    <b>
+      Frontend Interview Questions:
+    </b>
+  </summary>
+	<br/>
+	  <ul>
+		<li>
+			<a href="https://github.com/elsaaeid/HTML-interview-questions/blob/main/README.md">
+			HTML Interview Questions
+			</a>
+		</li>
+		<li>
+			<a href="https://github.com/elsaaeid/CSS-Stylesheet-Interview-Questions/blob/main/README.md">
+			CSS Stylesheet Interview Questions
+			</a>
+		</li>
+		<li>
+			<a href="https://github.com/elsaaeid/Javascript-Interview-Questions/tree/master">
+			Javascript Interview Questions
+			</a>
+		</li>
+		<li>
+			<a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
+			React Interview Questions
+			</a>
+		</li>
+	</ul>
+</details>
+
 
 <br />
 
