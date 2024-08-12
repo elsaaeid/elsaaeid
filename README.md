@@ -176,7 +176,7 @@
 			</a>
 		</li>
 		<li>
-			Stylesheet Interview Questions:
+			Stylesheet:
 			<ul>
 				<li>
 					<a href="https://github.com/elsaaeid/CSS-Stylesheet-Interview-Questions/blob/main/README.md">
