@@ -205,6 +205,11 @@
 			</a>
 		</li>
 		<li>
+			<a href="https://github.com/elsaaeid/TypeScript-Interview-Questions/tree/main">
+			TypeScript
+			</a>
+		</li>
+		<li>
 			<a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
 			React js
 			</a>
