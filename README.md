@@ -162,13 +162,34 @@
 
 # Interview Questions:
 
-<a href="https://github.com/elsaaeid/Common-Topics-in-Software-Engineering-Interviews/tree/main">
-	<b>
-		Software Engineering
-	</b>
-</a>
-
 <br />
+
+<details>
+	<summary>
+    <b>
+      Software Engineering:
+    </b>
+  </summary>
+	<br/>
+	  <ul>
+		<li>
+			<a href="https://github.com/elsaaeid/Common-Topics-in-Software-Engineering-Interviews/tree/main">
+				Behavioral Skills
+   			</a>
+		</li>
+		<li>
+			Technical Skills
+			<ul>
+				<li>
+					<a href="https://github.com/elsaaeid/Python-Interview-Questions/tree/main/README.">
+					Python
+					</a>
+    				</li>
+   			</ul>
+		</li>
+	</ul>
+</details>
+
 <br />
 
 <details>
