@@ -178,93 +178,103 @@
    			</a>
 		</li>
 		<li>
-			Technical Skills
-			<ul>
-				<li>
-					<a href="https://github.com/elsaaeid/Python-Interview-Questions/tree/main/README.">
-					Python
-					</a>
-    				</li>
-				<li>
-					<details>
-						<summary>
-					    <b>
-					      Frontend Interview Questions:
-					    </b>
-					  </summary>
-						<br/>
-						  <ul>
+			<details>
+				<summary>
+			    <b>
+			      Technical Skills:
+			    </b>
+			  </summary>
+				<br/>
+				  <ul>
+					<li>
+						<ul>
 							<li>
-								<a href="https://github.com/elsaaeid/HTML-interview-questions/blob/main/README.md">
-								HTML
+								<a href="https://github.com/elsaaeid/Python-Interview-Questions/tree/main/README.">
+								Python
 								</a>
 							</li>
 							<li>
-								Stylesheet:
-								<ul>
-									<li>
-										<a href="https://github.com/elsaaeid/CSS-Stylesheet-Interview-Questions/blob/main/README.md">
-										CSS
-										</a>
-					     				</li>
-									<li>
-										<a href="https://github.com/elsaaeid/Sass-and-Less-CSS-Interview-Questions/tree/main">
-										Sass and Less
-										</a>
-									</li>
-					   			</ul>
+								<details>
+									<summary>
+								    <b>
+								      Frontend Interview Questions:
+								    </b>
+								  </summary>
+									<br/>
+									  <ul>
+										<li>
+											<a href="https://github.com/elsaaeid/HTML-interview-questions/blob/main/README.md">
+											HTML
+											</a>
+										</li>
+										<li>
+											Stylesheet:
+											<ul>
+												<li>
+													<a href="https://github.com/elsaaeid/CSS-Stylesheet-Interview-Questions/blob/main/README.md">
+													CSS
+													</a>
+												</li>
+												<li>
+													<a href="https://github.com/elsaaeid/Sass-and-Less-CSS-Interview-Questions/tree/main">
+													Sass and Less
+													</a>
+												</li>
+											</ul>
+										</li>
+										<li>
+											<a href="https://github.com/elsaaeid/Javascript-Interview-Questions/tree/master">
+											Javascript
+											</a>
+										</li>
+										<li>
+											<a href="https://github.com/elsaaeid/TypeScript-Interview-Questions/tree/main">
+											TypeScript
+											</a>
+										</li>
+										<li>
+											<a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
+											React js
+											</a>
+										</li>
+									</ul>
+								</details>
 							</li>
 							<li>
-								<a href="https://github.com/elsaaeid/Javascript-Interview-Questions/tree/master">
-								Javascript
-								</a>
-							</li>
-							<li>
-								<a href="https://github.com/elsaaeid/TypeScript-Interview-Questions/tree/main">
-								TypeScript
-								</a>
-							</li>
-							<li>
-								<a href="https://github.com/elsaaeid/Interview-Questions-Of-React/tree/main">
-								React js
-								</a>
+								<details>
+									<summary>
+								    <b>
+								      Backend Interview Questions:
+								    </b>
+								  </summary>
+									<br/>
+									  <ul>
+										<li>
+											<a href="https://github.com/elsaaeid/Backend-Interview-Questions-for-Development-with-Node.js-Express-and-MongoDB/tree/main">
+											Development with Node.js
+											</a>
+										</li>
+										<li>
+											<a href="https://github.com/elsaaeid/PHP-Backend-Interview-Questions/tree/main">
+											Development with PHP
+											</a>
+										</li>
+										<li>
+											<a href="https://github.com/elsaaeid/Laravel-Backend-Interview-Questions/blob/main/README.md">
+											Development with Laravel
+											</a>
+										</li>
+										  <li>
+											<a href="https://github.com/elsaaeid/Flask-Interview-Questions">
+											Development with Flask
+											</a>
+										</li>
+									</ul>
+								</details>
 							</li>
 						</ul>
-					</details>
-    				</li>
-				<li>
-					<details>
-						<summary>
-					    <b>
-					      Backend Interview Questions:
-					    </b>
-					  </summary>
-						<br/>
-						  <ul>
-							<li>
-								<a href="https://github.com/elsaaeid/Backend-Interview-Questions-for-Development-with-Node.js-Express-and-MongoDB/tree/main">
-								Development with Node.js
-								</a>
-							</li>
-							<li>
-								<a href="https://github.com/elsaaeid/PHP-Backend-Interview-Questions/tree/main">
-								Development with PHP
-								</a>
-							</li>
-							<li>
-								<a href="https://github.com/elsaaeid/Laravel-Backend-Interview-Questions/blob/main/README.md">
-								Development with Laravel
-								</a>
-							</li>
-							  <li>
-								<a href="https://github.com/elsaaeid/Flask-Interview-Questions">
-								Development with Flask
-								</a>
-							</li>
-						</ul>
-					</details>
-     				</li>
-   			</ul>
+					</li>
+			</details>
 		</li>
 	</ul>
 </details>
