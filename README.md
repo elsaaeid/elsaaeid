@@ -190,14 +190,33 @@
 			  </summary>
 				<br/>
 				  <ul>
-					<li>
-						<a href="https://github.com/elsaaeid/Python-Interview-Questions/tree/main/README.">
-						Python
-						</a>
-					</li>
-					<li>
-						<a href="https://github.com/elsaaeid/C-Interview-Questions/tree/main">
-						C, C++
+					  <li>
+						<details>
+							<summary>
+						    <b>
+							    <a href="https://github.com/elsaaeid/Technical-interview-Questions/blob/main/README.md">
+						      		Programming Languages:
+							    </a>
+						    </b>
+						  </summary>
+						<br/>
+					  	<ul>
+							<li>
+							<a href="https://github.com/elsaaeid/Python-Interview-Questions/tree/main/README.">
+							Python
+							</a>
+							</li>
+							<li>
+								<a href="https://github.com/elsaaeid/C-Interview-Questions/tree/main">
+								C, C++
+								</a>
+							</li>
+	      					</ul>
+						</details>  
+					  </li>
+					  <li>
+						<a href="https://github.com/elsaaeid/Shell-Scripting-Questions/tree/main">
+						Shell Scripting
 						</a>
 					</li>
 					<li>
