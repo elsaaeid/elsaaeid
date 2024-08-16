@@ -194,9 +194,7 @@
 						<details>
 							<summary>
 						    <b>
-							    <a href="https://github.com/elsaaeid/Technical-interview-Questions/blob/main/README.md">
-						      		Programming Languages:
-							    </a>
+							    Programming Languages:
 						    </b>
 						  </summary>
 						<br/>
