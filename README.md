@@ -187,8 +187,6 @@
 				<br/>
 				  <ul>
 					<li>
-						<ul>
-							<li>
 								<a href="https://github.com/elsaaeid/Python-Interview-Questions/tree/main/README.">
 								Python
 								</a>
@@ -272,8 +270,7 @@
 									</ul>
 								</details>
 							</li>
-						</ul>
-					</li>
+    				</ul>
 			</details>
 		</li>
 	</ul>
