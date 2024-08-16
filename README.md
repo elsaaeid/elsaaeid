@@ -181,7 +181,9 @@
 			<details>
 				<summary>
 			    <b>
-			      Technical Skills:
+				    <a href="https://github.com/elsaaeid/Technical-interview-Questions/blob/main/README.md">
+			      		Technical Skills
+				    </a>
 			    </b>
 			  </summary>
 				<br/>
