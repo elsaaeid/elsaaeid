@@ -173,9 +173,11 @@
 	<br/>
 	  <ul>
 		<li>
-			<a href="https://github.com/elsaaeid/Common-Topics-in-Software-Engineering-Interviews/tree/main">
-				Behavioral Skills
-   			</a>
+			<b>
+				<a href="https://github.com/elsaaeid/Common-Topics-in-Software-Engineering-Interviews/tree/main">
+					Behavioral Skills
+	   			</a>
+			</b>
 		</li>
 		<li>
 			<details>
