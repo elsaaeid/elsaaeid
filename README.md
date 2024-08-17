@@ -17,14 +17,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsaaeid" alt="elsaaeid" /></a> </p>
 
 <br />
-<center>
-	<b>
-	<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions">
-      		Software Engineering Interview Questions
- 	</a>
-  	</b>
-</center>
-<br />
 
 # Technology Tools:
 
@@ -165,6 +157,21 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeillustrator-white?logo=adobeillustrator&logoColor=%23FF9A00">
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeaftereffects-white?logo=adobeaftereffects&logoColor=%239999FF">
 </details>
+
+<br />
+	<details>
+		<summary>
+			<b>
+				Interview Questions:
+   			</b>
+  		</summary>
+   		 <br />
+      	<b>
+	<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions">
+      		Software Engineering
+ 	</a>
+  	</b>
+ 	</details>
 
 
 # Contact me via:
