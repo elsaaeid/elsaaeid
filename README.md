@@ -18,7 +18,7 @@
 
 <br />
 
-# Technology Tools:
+## Technology Tools:
 
 <details>
 	<summary>
@@ -156,24 +156,16 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobephotoshop-white?logo=adobephotoshop&logoColor=%2331A8FF">
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeillustrator-white?logo=adobeillustrator&logoColor=%23FF9A00">
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeaftereffects-white?logo=adobeaftereffects&logoColor=%239999FF">
+	  <img alt="Static Badge" src="https://img.shields.io/badge/Adobepriemere-white?logo=adobepriemere&logoColor=%239999FF">
 </details>
 
 <br />
-	<details>
-		<summary>
-			<b>
-				Interview Questions:
-   			</b>
-  		</summary>
-   		 <br />
-      	<b>
+## Interview Questions:
 	<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions">
       		Software Engineering
  	</a>
-  	</b>
- 	</details>
 
-
+<br />
 # Contact me via:
 
 <p align="left">
