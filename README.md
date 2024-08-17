@@ -158,14 +158,6 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Adobeaftereffects-white?logo=adobeaftereffects&logoColor=%239999FF">
 </details>
 
-<br />
-
-	<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions">
-		<b>
-      			Software Engineering Interview Questions
-    		</b>
- 	</a>
-<br />
 
 # Contact me via:
 
