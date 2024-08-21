@@ -169,6 +169,14 @@
 
 <br />
 
+## Popular Libraries:
+
+<a href="https://github.com/elsaaeid/Popular-React-Libraries/blob/main/README.md">
+      	React Libraries	
+</a>
+
+<br />
+
 ## Contact me via:
 
 <p align="left">
