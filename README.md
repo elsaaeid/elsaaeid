@@ -171,7 +171,7 @@
 
 ## Popular Libraries:
 
-<a href="https://github.com/elsaaeid/Popular-React-Libraries/blob/main/README.md">
+- <a href="https://github.com/elsaaeid/Popular-React-Libraries/blob/main/README.md">
       	React Libraries	
 </a>
 <br />
