@@ -194,14 +194,17 @@
 			      	Software Engineering Interview Questions
 			</a>
    		</li>
+		<br/>
 		<li>
 			<a href="https://github.com/elsaaeid/Popular-libraries">
 				Popular libraries and frameworks
 			</a>
    		</li>
+		<br/>
 		<li>
 			<a href="https://github.com/elsaaeid/alx-interview">alx-interview</a>
 		</li>
+		<br/>
 		<li>
 			<details>
 				<summary>
@@ -262,6 +265,7 @@
 				</ul>
 			</details>
 		</li>
+		<br/>
 		<li>
 			<details>
 				<summary>
@@ -269,6 +273,7 @@
 			      Specializations:
 			    </b>
 			  </summary>
+				<br/>
 				<ul>
 					<li>
 						<details>
