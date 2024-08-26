@@ -176,6 +176,315 @@
 </a>
 <br />
 
+<details>
+	<summary>
+    <b>
+      Web APIs tests:
+    </b>
+  </summary>
+	<br/>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Postman-white?logo=postman">
+</details>
+
+<details>
+	<summary>
+    <b>
+      Repositories Content:
+    </b>
+  </summary>
+	<br/>
+	<ul>
+		<li>
+			<details>
+				<summary>
+			    <b>
+			      Software engineering Foundations:
+			    </b>
+			  </summary>
+				<br/>
+				<ul>
+					<li>
+						<a href="https://github.com/elsaaeid/alx-pre_course">alx-pre_course</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/alx-zero_day">alx-zero_day</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/zero_day">zero_day</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/printf">printf</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/monty">monty</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/sorting_algorithms">sorting_algorithms</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/binary_trees">binary_trees</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/alx-low_level_programming">alx-low_level_programming</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/Fix_My_Code_Challenge">Fix_My_Code_Challenge</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/alx-higher_level_programming">alx-higher_level_programming</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/AirBnB_clone">AirBnB_clone</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/AirBnB_clone_v2">AirBnB_clone_v2</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/AirBnB_clone_v3">AirBnB_clone_v3</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/AirBnB_clone_v4">AirBnB_clone_v4</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/simple_shell">simple_shell</a>
+					</li>
+					<li>
+						<a href="https://github.com/elsaaeid/alx-system_engineering-devops">alx-system_engineering-devops</a>
+					</li>
+				</ul>
+			</details>
+		</li>
+		<li>
+			<details>
+				<summary>
+			    <b>
+			      Specializations:
+			    </b>
+			  </summary>
+				<br/>
+				<ul>
+					<li>
+						<details>
+							<summary>
+						    <b>
+						     Frontend:
+						    </b>
+						  </summary>
+							<br/>
+							<ul>
+								<li>
+									<details>
+										<summary>
+									    <b>
+									       Core:
+									    </b>
+									  </summary>
+										<br/>
+										<ul>
+											<li>
+												<a href="https://github.com/elsaaeid/it-network">it-network</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/counter">counter</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/Dashboard">Dashboard</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/forest-company">forest-company</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/tutorial">tutorial</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/login--logout">login--logout</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/it-next">it-next</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/freshshop">freshshop</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/CRUD">CRUD</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/Creative-Portfolio">Creative-Portfolio</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/weather-app">weather-app</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/Running-Measuring-APP">Running-Measuring-APP</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/PuzzleGame">PuzzleGame</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/alfiqi-gate">alfiqi-gate</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/myTeacher">myTeacher</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/CrudApi">CrudApi</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/Hooks">Hooks</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/ReactJs">ReactJs</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/framer-motion-explanation">framer-motion-explanation</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/fun-motors">fun-motors</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/Dilivirya">Dilivirya</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/meza">meza</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/portfolio">portfolio</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/two-portfolio">two-portfolio</a>
+											</li>
+										</ul>
+									</details>
+								</li>
+								<li>
+									<details>
+										<summary>
+									    <b>
+									      Framework:
+									    </b>
+									  </summary>
+										<br/>
+										<ul>
+											<li>
+												<a href="https://github.com/elsaaeid/fashion-glasses">fashion-glasses</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/ranen-stationery">ranen-stationery</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/motiv">motiv</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/portfolio-react">portfolio-react</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/code">code</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/code-3d">code-3d</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/average-solution-frontend">average-solution-frontend</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/nutilla-fast">nutilla-fast</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/contextAPI">contextAPI</a>
+											</li>
+										</ul>
+									</details>
+								</li>
+							</ul>
+						</details>
+					</li>
+					<li>
+						<details>
+							<summary>
+						    <b>
+						      Backend:
+						    </b>
+						  </summary>
+							<br/>
+							<ul>
+								<li>
+									<a href="https://github.com/elsaaeid/alx-pre_course">alx-pre_course</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/alx-backend-python">alx-backend-python</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/alx-backend">alx-backend</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/alx-backend-storage">alx-backend-storage</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/alx-backend-javascript">alx-backend-javascript</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/alx-backend-user-data">alx-backend-user-data</a>
+								</li>
+							</ul>
+						</details>
+					</li>
+				     <li>
+						<details>
+							<summary>
+						    <b>
+						      Full-stack:
+						    </b>
+						  </summary>
+							<br/>
+							<ul>
+								<li>
+									<a href="https://github.com/elsaaeid/average-solution">average-solution</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/vactor-backend">vactor-backend</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/Youtube_Search">Youtube_Search</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/Alsaaeid-Ellithy-backend">Alsaaeid-Ellithy-backend</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/chat-app">chat-app</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/panda">panda</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/whats-app-chatbot">whats-app-chatbot</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/full-stack-php">full-stack-php</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/full-stack-php_array">full-stack-php_array</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/devoDigits-server">devoDigits-server</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/midjourney-clone">midjourney-clone</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/payment-gateway">payment-gateway</a>
+								</li>
+							</ul>
+						</details>
+					</li>
+				</ul>
+			</details>
+			<li>
+				<a href="https://github.com/elsaaeid/alx-interview">alx-interview</a>
+			</li>
+		</li>
+	</ul>
+</details>
+
 ## Contact me via:
 
 <p align="left">
