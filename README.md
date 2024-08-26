@@ -159,22 +159,7 @@
 	  <img alt="Static Badge" src="https://img.shields.io/badge/Adobepriemere-white?logo=adobepriemere&logoColor=%239999FF">
 </details>
 
-<br />
 
-## Interview Questions:
-
-<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions">
-      	Software Engineering	
-</a>
-
-<br />
-
-## Popular libraries and frameworks:
-
-<a href="https://github.com/elsaaeid/Popular-libraries">
-	Popular libraries and frameworks
-</a>
-<br />
 <br />
 
 <details>
@@ -185,6 +170,16 @@
   </summary>
 	<br/>
 	<ul>
+		<li>
+			<a href="https://github.com/elsaaeid/Software-Engineering-Interview-Questions">
+			      	Software Engineering Interview Questions
+			</a>
+   		</li>
+		<li>
+			<a href="https://github.com/elsaaeid/Popular-libraries">
+				Popular libraries and frameworks
+			</a>
+   		</li>
 		<li>
 			<details>
 				<summary>
