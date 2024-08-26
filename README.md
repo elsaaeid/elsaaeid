@@ -179,8 +179,6 @@
 	  </ul>
 </details>
 
-
-
 <br />
 
 <details>
@@ -271,7 +269,6 @@
 			      Specializations:
 			    </b>
 			  </summary>
-				<br/>
 				<ul>
 					<li>
 						<details>
