@@ -432,9 +432,6 @@
 							<br/>
 							<ul>
 								<li>
-									<a href="https://github.com/elsaaeid/alx-pre_course">alx-pre_course</a>
-								</li>
-								<li>
 									<a href="https://github.com/elsaaeid/alx-backend-python">alx-backend-python</a>
 								</li>
 								<li>
