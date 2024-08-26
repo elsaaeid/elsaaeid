@@ -181,6 +181,9 @@
 			</a>
    		</li>
 		<li>
+			<a href="https://github.com/elsaaeid/alx-interview">alx-interview</a>
+		</li>
+		<li>
 			<details>
 				<summary>
 			    <b>
@@ -464,9 +467,6 @@
 					</li>
 				</ul>
 			</details>
-			<li>
-				<a href="https://github.com/elsaaeid/alx-interview">alx-interview</a>
-			</li>
 		</li>
 	</ul>
 </details>
