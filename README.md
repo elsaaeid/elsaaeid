@@ -265,7 +265,6 @@
 				</ul>
 			</details>
 		</li>
-		<br/>
 		<li>
 			<details>
 				<summary>
