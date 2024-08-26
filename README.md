@@ -413,7 +413,6 @@
 													</li>
 												</ul>
 											</details>
-											
 	   									</li>
 										</ul>
 									</details>
