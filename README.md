@@ -179,16 +179,6 @@
 <details>
 	<summary>
     <b>
-      Web APIs tests:
-    </b>
-  </summary>
-	<br/>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Postman-white?logo=postman">
-</details>
-
-<details>
-	<summary>
-    <b>
       Repositories Content:
     </b>
   </summary>
