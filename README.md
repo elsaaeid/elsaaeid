@@ -490,6 +490,7 @@
 							</ul>
 						</details>
 					</li>
+					<li>
 					<details>
 						<b>
 							Full-stack
@@ -512,6 +513,7 @@
 							</ul>
        						</summary>
      					</details>
+					</li>
 				</ul>
 			</details>
 		</li>
