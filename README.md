@@ -494,7 +494,7 @@
 					<details>
 						 <summary>
 						<b>
-							Full-stack
+							Full-stack:
 						</b>
 						</summary> 
        						</br>
