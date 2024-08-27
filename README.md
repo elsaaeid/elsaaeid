@@ -500,12 +500,6 @@
        						</br>
 							<ul>
 								<li>
-									<a href="https://github.com/elsaaeid/panda">panda</a>
-								</li>
-								<li>
-									<a href="https://github.com/elsaaeid/whats-app-chatbot">whats-app-chatbot</a>
-								</li>
-								<li>
 									<a href="https://github.com/elsaaeid/full-stack-php">full-stack-php</a>
 								</li>
 								<li>
