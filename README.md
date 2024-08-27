@@ -492,10 +492,11 @@
 					</li>
 					<li>
 					<details>
+						 <summary>
 						<b>
 							Full-stack
 						</b>
-						<summary>
+						</summary> 
        						</br>
 							<ul>
 								<li>
@@ -511,7 +512,6 @@
 									<a href="https://github.com/elsaaeid/full-stack-php_array">full-stack-php_array</a>
 								</li>
 							</ul>
-       						</summary>
      					</details>
 					</li>
 				</ul>
