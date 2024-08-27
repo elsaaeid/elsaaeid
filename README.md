@@ -452,7 +452,7 @@
 						<details>
 							<summary>
 						    <b>
-						      Full-stack:
+						      mern-stack:
 						    </b>
 						  </summary>
 							<br/>
@@ -479,12 +479,6 @@
 									<a href="https://github.com/elsaaeid/whats-app-chatbot">whats-app-chatbot</a>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/full-stack-php">full-stack-php</a>
-								</li>
-								<li>
-									<a href="https://github.com/elsaaeid/full-stack-php_array">full-stack-php_array</a>
-								</li>
-								<li>
 									<a href="https://github.com/elsaaeid/devoDigits-server">devoDigits-server</a>
 								</li>
 								<li>
@@ -496,6 +490,28 @@
 							</ul>
 						</details>
 					</li>
+					<details>
+						<b>
+							Full-stack
+						</b>
+						<summary>
+       						</br>
+							<ul>
+								<li>
+									<a href="https://github.com/elsaaeid/panda">panda</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/whats-app-chatbot">whats-app-chatbot</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/full-stack-php">full-stack-php</a>
+								</li>
+								<li>
+									<a href="https://github.com/elsaaeid/full-stack-php_array">full-stack-php_array</a>
+								</li>
+							</ul>
+       						</summary>
+     					</details>
 				</ul>
 			</details>
 		</li>
