@@ -505,23 +505,23 @@
 								<li>
 									<a href="https://github.com/elsaaeid/full-stack-php_array">full-stack-php_array</a>
 								</li>
+								<li>
+									<details>
+										<summary>
+									    <b>
+									      Wordpress:
+									    </b>
+									  </summary>
+										<br/>
+										<ul>
+											<li>
+												<a href="https://github.com/elsaaeid/doudou-cartable">doudou-cartable</a>
+											</li>
+										</ul>
+									</details>
+								</li>
 							</ul>
      					</details>
-					</li>
-				</ul>
-			</details>
-		</li>
-		<li>
-			<details>
-				<summary>
-			    <b>
-			      Wordpress:
-			    </b>
-			  </summary>
-				<br/>
-				<ul>
-					<li>
-						<a href="https://github.com/elsaaeid/doudou-cartable">doudou-cartable</a>
 					</li>
 				</ul>
 			</details>
