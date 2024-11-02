@@ -534,6 +534,17 @@
 		</li>
 	</ul>
 </details>
+<div align="left" style="display: flex; justify-content: space-between;">
+  <div style="margin: 5px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </div>
+  <div style="margin: 5px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
+  <div style="margin: 5px;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="Streak Stats" />
+  </div>
+</div>
 
 ### Contact me via:
 
@@ -550,17 +561,6 @@
 </p>
 
 <br />
-<div align="left" style="display: flex; justify-content: space-between;">
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </div>
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
-  </div>
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="Streak Stats" />
-  </div>
-</div>
 
 ### Support:
 
