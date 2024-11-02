@@ -525,6 +525,7 @@
 		</li>
 	</ul>
 </details>
+<br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsaaeid" alt="elsaaeid" /></a> </p>
 <div align="left" style="display: flex; justify-content: space-between;">
   <div style="margin: 5px;">
