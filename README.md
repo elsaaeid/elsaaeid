@@ -178,9 +178,6 @@
 		  </li>
 	  </ul>
 </details>
-
-<br />
-
 <details>
 	<summary>
     <b>
