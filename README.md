@@ -12,6 +12,7 @@
 <img align="center" width="100%" alt="Coding" src="assets/readme.gif">
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elsaaeid&label=Profile%20views&color=0e75b6&style=flat" alt="elsaaeid" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsaaeid" alt="elsaaeid" /></a> </p>
 
 <br />
