@@ -549,17 +549,17 @@
 </p>
 
 <br />
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
-  <div style="flex: 1; margin: 10px;">
+  <div>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="elsaaeid" /></p>
   </div>
 
-  <div style="flex: 1; margin: 10px;">
+  <div>
     <p><img src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="elsaaeid" /></p>
   </div>
 
-  <div style="flex: 1; margin: 10px;">
+  <div>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="elsaaeid" /></p>
   </div>
 
