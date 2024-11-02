@@ -527,10 +527,10 @@
 </details>
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsaaeid" alt="elsaaeid" /></a> </p>
-<div style="display:inline-block">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<div align="center" style="display:inline-block">
     <img src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" style="margin: 5px;" alt="Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 ### Support:
