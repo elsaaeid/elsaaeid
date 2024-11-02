@@ -549,21 +549,19 @@
 </p>
 
 <br />
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="flex: 1; margin: 10px;">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    </div>
+    <div style="margin: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
+    </div>
+    <div style="margin: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="Streak Stats" />
+    </div>
   </div>
-
-  <div style="flex: 1; margin: 10px;">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-  </div>
-
-  <div style="flex: 1; margin: 10px;">
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="Streak Stats" /></p>
-  </div>
-
-</div>
+</p>
 
 ### Support:
 
