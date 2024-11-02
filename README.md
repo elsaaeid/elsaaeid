@@ -6,8 +6,17 @@
 ### I'm a Software Engineer. `I learn by doing....`
 <br/>
 <ul>
-  <li> 🔭 I’m currently working on my coding skills.</li>
-  <li> 👯 I’m open to collaborate on Software Engineering projects.</li>
+  	<li>🌟 Passionate MERN Stack Developer</li>
+	<li>💻 Full-Stack Expertise</li>
+	<li>🔗 API Development</li>
+	<li>📊 Database Management</li>
+	<li>📱 Responsive Design</li>
+	<li>🛠️ Version Control</li>
+	<li>🧩 Problem Solver</li>
+	<li>📚 Continuous Learner</li>
+	<li>🌍 Open Source Contributor</li>
+	<li>🤝 Strong Communication Skills</li>
+  	<li> 👯 I’m open to collaborate on Software Engineering projects.</li>
 </ul>
 <img align="center" width="100%" alt="Coding" src="assets/readme.gif">
 
