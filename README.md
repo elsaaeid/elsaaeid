@@ -549,19 +549,21 @@
 </p>
 
 <br />
-<p align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    </div>
-    <div style="margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
-    </div>
-    <div style="margin: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="Streak Stats" />
-    </div>
+<div align="center" style="display: flex; justify-content: space-between;">
+
+  <div style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </div>
-</p>
+
+  <div style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
+
+  <div style="margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="Streak Stats" />
+  </div>
+
+</div>
 
 ### Support:
 
