@@ -549,14 +549,20 @@
 </p>
 
 <br />
-<div align="right">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="elsaaeid" /></p>
-</div>
-<div align="center">
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="elsaaeid" /></p>
-</div>
-<div align="left">
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="elsaaeid" /></p>
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; margin: 10px;">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="elsaaeid" /></p>
+  </div>
+
+  <div style="flex: 1; margin: 10px;">
+    <p><img src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="elsaaeid" /></p>
+  </div>
+
+  <div style="flex: 1; margin: 10px;">
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="elsaaeid" /></p>
+  </div>
+
 </div>
 
 ### Support:
