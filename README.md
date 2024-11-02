@@ -16,7 +16,7 @@
 	<li>📚 Continuous Learner</li>
 	<li>🌍 Open Source Contributor</li>
 	<li>🤝 Strong Communication Skills</li>
-  	<li> 👯 I’m open to collaborate on Software Engineering projects.</li>
+  	<li> 👯 Open to Collaboration</li>
 </ul>
 <img align="center" width="100%" alt="Coding" src="assets/readme.gif">
 
