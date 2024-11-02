@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Mern+Stack+Software+Engineer;I'm+Passionate+About+Coding;I+Learn+By+Doing;I+Can+Work+Under+Pressure)](https://git.io/typing-svg)
 
+<img align="center" width="100%" alt="Coding" src="assets/readme.gif">
+
 ### 🌐 Overview...
 <ul>
   	<li>🌟 Passionate MERN Stack Developer</li>
@@ -16,8 +18,6 @@
 	<li>🤝 Strong Communication Skills</li>
   	<li> 👯 Open to Collaboration</li>
 </ul>
-<img align="center" width="100%" alt="Coding" src="assets/readme.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elsaaeid&label=Profile%20views&color=0e75b6&style=flat" alt="elsaaeid" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsaaeid" alt="elsaaeid" /></a> </p>
