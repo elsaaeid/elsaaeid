@@ -9,10 +9,8 @@
   <li> 🔭 I’m currently working on my coding skills.</li>
   <li> 👯 I’m open to collaborate on Software Engineering projects.</li>
 </ul>
-<img align="center" width="100%" alt="Coding" src="https://jmp.sh/s/q0EjSs4QQfxIfpKyUg8X">
+<img align="center" width="100%" alt="Coding" src="assets/readme.gif">
 
-
-<p align="left"> <img src="assets/readme.gif" alt="elsaaeid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsaaeid" alt="elsaaeid" /></a> </p>
 
