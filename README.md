@@ -534,9 +534,7 @@
   <div style="margin: 5px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
   </div>
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" alt="Streak Stats" />
-  </div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" align="center" style="margin: 5px;" alt="Streak Stats" />
 </div>
 
 ### Support:
