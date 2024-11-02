@@ -527,14 +527,10 @@
 </details>
 <br />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elsaaeid" alt="elsaaeid" /></a> </p>
-<div align="left" style="display: flex; justify-content: space-between;">
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  </div>
-  <div style="margin: 5px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
-  </div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" align="center" style="margin: 5px;" alt="Streak Stats" />
+<div align="center" style="display:inline-block">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elsaaeid&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=elsaaeid&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsaaeid&" style="margin: 5px;" alt="Streak Stats" />
 </div>
 
 ### Support:
