@@ -347,9 +347,6 @@
 												<a href="https://github.com/elsaaeid/framer-motion-explanation">framer-motion-explanation</a>
 											</li>
 											<li>
-												<a href="https://github.com/elsaaeid/fun-motors">fun-motors</a>
-											</li>
-											<li>
 												<a href="https://github.com/elsaaeid/Dilivirya">Dilivirya</a>
 											</li>
 											<li>
@@ -408,6 +405,21 @@
 													</li>
 													<li>
 														<a href="https://github.com/elsaaeid/contextAPI">contextAPI</a>
+													</li>
+												</ul>
+											</details>
+	   									</li>
+										<li>
+											<details>
+												<summary>
+											    <b>
+											      Angular
+											    </b>
+											  </summary>
+												<br/>
+												<ul>
+													<li>
+														<a href="https://github.com/elsaaeid/fun-motors">fun-motors</a>
 													</li>
 												</ul>
 											</details>
