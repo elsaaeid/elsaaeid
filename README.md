@@ -491,7 +491,7 @@
 									<a href="https://github.com/elsaaeid/devoDigits-server">devoDigits-server</a>
 								</li>
 								<li>
-									<a href="https://github.com/elsaaeid/midjourney-clone">midjourney-clone</a>
+									<a href="https://github.com/elsaaeid/open-air">Open air</a>
 								</li>
 								<li>
 									<a href="https://github.com/elsaaeid/payment-gateway">payment-gateway</a>
