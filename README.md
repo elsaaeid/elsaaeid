@@ -367,6 +367,12 @@
 											<li>
 												<a href="https://github.com/elsaaeid/chatbot.git">chatbot</a>
 											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/a-simple-calculator.git">a-simple-calculator</a>
+											</li>
+											<li>
+												<a href="https://github.com/elsaaeid/tic-tac-toe.git">tic-tac-toe</a>
+											</li>
 										</ul>
 									</details>
 								</li>
