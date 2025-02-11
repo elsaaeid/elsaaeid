@@ -479,7 +479,7 @@
 						<details>
 							<summary>
 						    <b>
-						      mern-stack:
+						      Mern Stack:
 						    </b>
 						  </summary>
 							<br/>
@@ -521,7 +521,7 @@
 					<details>
 						 <summary>
 						<b>
-							Full-stack:
+							Full Stack:
 						</b>
 						</summary> 
        						</br>
